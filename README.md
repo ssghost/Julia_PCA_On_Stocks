@@ -1,3 +1,3 @@
 # Julia_PCA_On_Stocks
 
-## usage: `$> julia app.jl`
+usage: `$> julia app.jl`
