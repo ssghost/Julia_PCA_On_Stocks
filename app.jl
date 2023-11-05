@@ -1,6 +1,6 @@
 import Dash
-import ./layout
-import ./callbacks
+import layout
+import callbacks
 import DashBootstrapComponents as Dbc
 
 app = Dash.dash()
